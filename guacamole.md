@@ -5,4 +5,4 @@
 * Lime
 * Salt
 ## Instructions
-Stir everything long enough.
+Stir everything long enough to make smooth
